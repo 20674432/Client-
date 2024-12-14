@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ldVymV1brzPf9XSC83qkhlj7ivJlv/iYDdOPXmfwDlU=",
+  "Source": "ClientPortal",
+  "BasePath": "_content/ClientPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
